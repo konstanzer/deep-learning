@@ -1,4 +1,4 @@
-References
+*References*
 
 Implementing a Neural Network from Scratch in Python – An Introduction (Denny Britz, 2015)
 
