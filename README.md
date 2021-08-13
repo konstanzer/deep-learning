@@ -16,6 +16,18 @@ Deep Residual Learning for Image Recognition (He, Zhang, Ren & Sun, 2015)
 
 deep-learning-models/resnet50.py/ (GitHub: fchollet)
 
+
+
+Classic CNN Architectures
+
+Gradient-based learning applied to document recognition. Section 2-3 (Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. 1998)
+
+ImageNet Classification with Deep Convolutional Neural Networks (Krizhevsky, A., Sutskever, I. and Hinton, G. E., 2012)
+
+Very Deep Convolutional Networks for Large-Scale Image Recognition. ( K. Simonyan and A. Zisserman 2015)
+
+
+
 MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (Howard, Zhu, Chen, Kalenichenko, Wang, Weyand, Andreetto, ​& Adam, 2017)
 
 MobileNetV2: Inverted Residuals and Linear Bottlenecks (Sandler, Howard, Zhu, Zhmoginov &Chen, 2018)
