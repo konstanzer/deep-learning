@@ -1,3 +1,5 @@
+<img src="img/coursera.png" width="150"/>
+
 1. Neural Networks - Build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture.
 
 2. Improving NNs (tuning, regularization, and optimization) - Open the black box to understand the processes that drive performance and generate good results systematically. Train and develop test sets and analyze bias/variance for building deep learning applications; use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; implement a neural network in TensorFlow.
